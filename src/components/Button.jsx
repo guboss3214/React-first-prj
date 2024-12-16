@@ -1,3 +1,5 @@
+import './button.css'
+
 const Button = ({text, type, num, disabled}) => {
   return(
     <div>
